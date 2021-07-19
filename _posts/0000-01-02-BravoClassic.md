@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+- Hey bro
+![This is an image](https://unsplash.com/s/photos/random)
 Use the left arrow to go back!
